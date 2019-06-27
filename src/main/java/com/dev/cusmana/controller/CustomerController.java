@@ -2,8 +2,6 @@ package com.dev.cusmana.controller;
 
 
 
-import com.dev.cusmana.dao.CustomerDAO;
-import com.dev.cusmana.dao.CustomerDAOImpl;
 import com.dev.cusmana.entity.Customer;
 import com.dev.cusmana.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
